@@ -1,5 +1,5 @@
 # KBQA-movie
-    before staring, you need download 
+   Before starting, you need download d2rq-0.8.1, apache-jena-3.12.0 and apache-jena-fuseki-3.12.0, and put those files to our project root path.
 # 1. Data
         1. ./data/kg-demo_movie.sql
         2. download from "https://link.zhihu.com/?target=https%3A//www.themoviedb.org/'
